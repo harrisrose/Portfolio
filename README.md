@@ -4,7 +4,7 @@ Two projects are included her for review.
 
 1. [Blackjack Reinforcement Learning Project](/Blackjack_Project/System_Project_Blackjack_Learning_HarrisRose.ipynb)
 
-This project was created to test the abailaty of RL and DQN's to learn an optimal strategy as compared to a Medium article we were provided which had some issues.
+This project was created to test the ability of RL and DQN's to learn an optimal strategy as compared to a Medium article we were provided which had some issues.
 
 This [notebook](/Blackjack_Project/System_Project_Blackjack_Learning_HarrisRose.ipynb) summarizes the results and all code files can found in this [folder](/Blackjack_Project).
 
